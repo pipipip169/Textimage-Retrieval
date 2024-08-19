@@ -11,20 +11,14 @@ This project demonstrates an image retrieval system based on text queries, lever
 
 ## Requirements
 
-- Python 3.8+
-- ChromaDB
-- OpenCLIP
-- NumPy
-- TQDM
-- PIL (Pillow)
-- Matplotlib
+    Read 'requirements.txt' file
 
 ## Installation
 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/username/Textimage-Retrieval.git
+    git clone https://github.com/pipipip169/Textimage-Retrieval.git
     cd Textimage-Retrieval
     ```
 
@@ -39,8 +33,7 @@ This project demonstrates an image retrieval system based on text queries, lever
     Download the dataset and unzip it into the `data/` directory:
 
     ```bash
-    !gdown 1msLVo0g0LFmL9-qZ73vq9YEVZwbzOePF
-    !unzip data
+    https://drive.usercontent.google.com/download?id=1msLVo0g0LFmL9-qZ73vq9YEVZwbzOePF
     ```
 
 ## Usage
